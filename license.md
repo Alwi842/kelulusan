@@ -7,5 +7,4 @@ Public Use Prohibited: This code may not be copied, shared, or distributed publi
 Commercial Use Prohibited: The code may not be used for commercial purposes without explicit written consent.
 
 3. Conditions
-
 Any modifications or derivative works must include this custom license and must remain under the same restrictions outlined above.
